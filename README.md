@@ -22,7 +22,7 @@
 
 Backend Developer passionate about designing scalable systems, APIs, and data-driven applications.
 
-I enjoy building software that powers products behind the scenes—from database architecture and API design to business automation and analytics platforms.
+I enjoy building software that powers products behind the scenes from database architecture and API design to business automation and analytics platforms.
 
 My focus is writing maintainable backend code, designing efficient systems, and solving real-world business problems through technology.
 
